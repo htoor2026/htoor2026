@@ -26,7 +26,7 @@ and turning data into actionable insights.
 - Git, GitHub
 - Jupyter Notebook
 
----
+--- 
 
 ## 📌 Featured Projects
 _(Projects will be added here as they are completed)_
