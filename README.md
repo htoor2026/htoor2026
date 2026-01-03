@@ -1,4 +1,4 @@
-# Hi 👋, I'm Harry Toor
+# Hi 👋, I'm Harkamal Toor
 
 Data Science & Machine Learning student passionate about Python, SQL,
 and turning data into actionable insights.
