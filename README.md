@@ -3,7 +3,7 @@
 Data Science & Machine Learning student passionate about Python, SQL,
 and turning data into actionable insights.
 
----
+---  
 
 ## 👨‍💻 About Me
 - Interested in data-driven problem solving and applied machine learning
