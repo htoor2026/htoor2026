@@ -1,53 +1,61 @@
-# Hi 👋, I'm Harkamal Toor
+# Harkamal Toor
 
-Data Science & Machine Learning student passionate about Python, SQL,
-and turning data into actionable insights.
+**Data Science · Machine Learning · Experimentation · ML Systems**
 
----  
+I build practical data and machine learning systems across forecasting, experimentation, NLP, and production ML.
 
-## 👨‍💻 About Me
-- Interested in data-driven problem solving and applied machine learning
-- Enjoy building end-to-end projects, from raw data to insights
-- Focused on clean code, solid fundamentals, and real-world use cases
+My focus is on more than model accuracy: **evaluation, reproducibility, deployment, monitoring, and decision-making**.
 
 ---
 
-## 🛠️ Skills
-**Programming & Data**
-- Python, SQL
-- Pandas, NumPy, Matplotlib, Seaborn
+## Areas I Work In
 
-**Machine Learning**
-- Scikit-learn
-- Classification & Regression
-- Model evaluation and validation
-
-**Tools**
-- Git, GitHub
-- Jupyter Notebook
-
---- 
-
-## 📌 Featured Projects
-_(Projects will be added here as they are completed)_
-
-- **Customer Churn Prediction**
-  - End-to-end ML pipeline
-  - EDA, feature engineering, modeling, evaluation
-
-- **Insurance Risk Analysis**
-  - Statistical analysis + machine learning
-  - Focus on explainability and insights
+- Machine Learning & Predictive Modeling
+- A/B Testing & Causal Inference
+- Time-Series Forecasting
+- NLP & Semantic Search
+- MLOps & ML Pipelines
+- Applied AI & Agentic Workflows
 
 ---
 
-## 📚 Currently Learning
-- Advanced Machine Learning concepts
-- Statistics for Data Science
-- Model deployment fundamentals
+## Technical Stack
+
+**Languages**  
+Python · SQL
+
+**Machine Learning**  
+scikit-learn · XGBoost · LightGBM · CatBoost · TensorFlow
+
+**Data**  
+pandas · NumPy · MongoDB · Redis
+
+**ML Systems**  
+MLflow · ZenML · FastAPI · Docker
+
+**Visualization**  
+Matplotlib · Tableau
 
 ---
 
-📫 **Contact:**  
-GitHub: https://github.com/htoor2026  
-Email:  htoor2026@gmail.com
+## Selected Work
+
+- Experimentation systems with uplift modeling and heterogeneous treatment effects
+- Demand forecasting with classical and gradient-boosted models
+- NLP systems for retrieval, clustering, and summarization
+- End-to-end ML pipelines with tracking, reproducibility, and deployment
+
+---
+
+## What I Care About
+
+Turning data into systems that support real decisions.
+
+**Data → Modeling → Evaluation → Deployment → Monitoring → Decision**
+
+---
+
+## Connect
+
+GitHub: [@htoor2026](https://github.com/htoor2026)  
+Email: htoor2026@gmail.com
