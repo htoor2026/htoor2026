@@ -1,6 +1,6 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
 
-<h1 align="center">Hi 👋, I'm Harkamal Toor</h1>
+<h1 align="center">Hi 👋, I'm Harkamal</h1>
 <h3 align="center">Data Science · Machine Learning · Experimentation · ML Systems</h3>
 
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
