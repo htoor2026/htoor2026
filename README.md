@@ -78,6 +78,24 @@ Data → Modeling → Evaluation → Deployment → Monitoring → Decision
 </tr>
 </table>
 
+
+## Open-Source Contributions
+
+I contribute fixes, regression tests, and documentation improvements to established Python projects in machine learning, time-series analysis, and data engineering.
+
+| Project | Contribution | Pull request |
+| --- | --- | --- |
+| [aeon-neuro](https://github.com/aeon-toolkit/aeon-neuro) | Fixed estimator test-parameter hooks so aeon uses the intended lightweight settings; added regression coverage | [#182](https://github.com/aeon-toolkit/aeon-neuro/pull/182) |
+| [aeon-neuro](https://github.com/aeon-toolkit/aeon-neuro) | Corrected overlapping and missing EEG frequency-band assignments, including boundary tests | [#186](https://github.com/aeon-toolkit/aeon-neuro/pull/186) |
+| [aeon-neuro](https://github.com/aeon-toolkit/aeon-neuro) | Exported `ChannelFilter` through the public API and added scoring and validation tests | [#187](https://github.com/aeon-toolkit/aeon-neuro/pull/187) |
+| [Kedro Plugins](https://github.com/kedro-org/kedro-plugins) | Corrected experimental dataset YAML type paths in documentation | [#1528](https://github.com/kedro-org/kedro-plugins/pull/1528) |
+
+**PR status:** All four pull requests are currently open and awaiting maintainer review; follow each link for the latest status.
+
+I also investigated [Kedro issue #5804](https://github.com/kedro-org/kedro/issues/5804) and prepared a local fix, but have not submitted a pull request for it.
+
+**Engineering practices:** Python · NumPy · pytest · regression testing · Git · GitHub Actions · pre-commit.
+
 ## Tech Stack
 
 <p align="center">
