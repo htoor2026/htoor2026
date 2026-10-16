@@ -81,20 +81,19 @@ Data → Modeling → Evaluation → Deployment → Monitoring → Decision
 
 ## Open-Source Contributions
 
-I contribute fixes, regression tests, and documentation improvements to established Python projects in machine learning, time-series analysis, and data engineering.
+**3 pull requests merged upstream** across [aeon-neuro](https://github.com/aeon-toolkit/aeon-neuro) and [Kedro Plugins](https://github.com/kedro-org/kedro-plugins).
 
-| Project | Contribution | Pull request |
+I contribute to established Python projects by reproducing issues, improving library APIs, writing regression tests, and refining developer documentation. My changes go through maintainers' code reviews and automated CI checks.
+
+| Project | Merged contribution | Upstream PR |
 | --- | --- | --- |
-| [aeon-neuro](https://github.com/aeon-toolkit/aeon-neuro) | Fixed estimator test-parameter hooks so aeon uses the intended lightweight settings; added regression coverage | [#182](https://github.com/aeon-toolkit/aeon-neuro/pull/182) |
-| [aeon-neuro](https://github.com/aeon-toolkit/aeon-neuro) | Corrected overlapping and missing EEG frequency-band assignments, including boundary tests | [#186](https://github.com/aeon-toolkit/aeon-neuro/pull/186) |
-| [aeon-neuro](https://github.com/aeon-toolkit/aeon-neuro) | Exported `ChannelFilter` through the public API and added scoring and validation tests | [#187](https://github.com/aeon-toolkit/aeon-neuro/pull/187) |
-| [Kedro Plugins](https://github.com/kedro-org/kedro-plugins) | Corrected experimental dataset YAML type paths in documentation | [#1528](https://github.com/kedro-org/kedro-plugins/pull/1528) |
+| **aeon-neuro** | Fixed estimator test-parameter hooks and added regression coverage | [#182 — Merged](https://github.com/aeon-toolkit/aeon-neuro/pull/182) |
+| **aeon-neuro** | Exported `ChannelFilter` through the public API and tested scoring and validation | [#187 — Merged](https://github.com/aeon-toolkit/aeon-neuro/pull/187) |
+| **Kedro Plugins** | Corrected experimental dataset YAML type paths in documentation | [#1528 — Merged](https://github.com/kedro-org/kedro-plugins/pull/1528) |
 
-**PR status:** All four pull requests are currently open and awaiting maintainer review; follow each link for the latest status.
+**Additional issue work:** [aeon-neuro PR #186](https://github.com/aeon-toolkit/aeon-neuro/pull/186) passed CI but was closed because [PR #183](https://github.com/aeon-toolkit/aeon-neuro/pull/183) had already resolved the frequency-band issue. I also investigated [Kedro issue #5804](https://github.com/kedro-org/kedro/issues/5804) and prepared a local fix without submitting a PR.
 
-I also investigated [Kedro issue #5804](https://github.com/kedro-org/kedro/issues/5804) and prepared a local fix, but have not submitted a pull request for it.
-
-**Engineering practices:** Python · NumPy · pytest · regression testing · Git · GitHub Actions · pre-commit.
+**Engineering practices:** Python · NumPy · pytest · regression testing · Git · GitHub Actions · pre-commit · code review.
 
 ## Tech Stack
 
